@@ -20,9 +20,9 @@ I'm passionate about building web applications, server-side systems, and automat
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=undeadpelmen)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=undeadpelmen&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=undeadpelmen)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=undeadpelmen&show_icons=true)
 
 ## 📫 Connect with Me
 - GitHub: [@undeadpelmen](https://github.com/undeadpelmen)
