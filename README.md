@@ -45,16 +45,13 @@
         <img src="https://skillicons.dev/icons?i=arch" width="48px" alt="Linux (Arch)">
     </a>
     <a href="https://www.jetbrains.com/go/">
-        <img src="https://skillicons.dev/icons?i=idea" width="48px" alt="IntelliJ IDEA / GoLand">
+        <img src="https://skillicons.dev/icons?i=idea" width="48px" alt="IntelliJ IDEA">
     </a>
     <a href="https://vercel.com">
         <img src="https://skillicons.dev/icons?i=vercel" width="48px" alt="Vercel">
     </a>
     <a href="https://about.gitlab.com">
         <img src="https://skillicons.dev/icons?i=gitlab" width="48px" alt="GitLab">
-    </a>
-    <a href="https://zed.dev">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48px" alt="Zed Editor">
     </a>
 </div>
 </details>
@@ -68,7 +65,7 @@
 </a>
 
 <a href="https://github.com/undeadpelmen">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=undeadpelmen&hide=shell&theme=tokyonight&hide_border=true&title_color=fa58b6&text_color=7a0bc0">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=undeadpelmen&layout=compact&theme=tokyonight&hide_border=true&title_color=fa58b6&text_color=7a0bc0">
 </a>
 
 </div>
